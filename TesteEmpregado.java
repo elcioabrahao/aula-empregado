@@ -1,4 +1,5 @@
 //a classe TesteEmpregado ficou assim
+// comentario
 public class TesteEmpregado {
 
   public static void main(String[] args) {
